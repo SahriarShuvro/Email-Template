@@ -207,6 +207,11 @@ body {
     justify-content: space-between;
 }
 
+.main-gift-section img {
+    width: 191px;
+    height: 203px;
+}
+
 .main-gift-section p {
     padding: 5%;
     padding-top: 36px;
